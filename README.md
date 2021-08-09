@@ -6,6 +6,10 @@
  [![License](https://img.shields.io/github/license/Fidelxyz/MCDR-Renewability.svg)](https://github.com/Fidelxyz/MCDR-Renewability/blob/master/LICENSE)
  [![Release](https://img.shields.io/github/v/release/Fidelxyz/MCDR-Renewability.svg)](https://github.com/Fallen-Breath/MCDReforged/releases)
 
+## 安装
+
+依赖 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 1.x 和 [MinecraftDataAPI](https://github.com/MCDReforged/MinecraftDataAPI)。
+
 ## 用法
 
 `!!clone` 复制手中物品
