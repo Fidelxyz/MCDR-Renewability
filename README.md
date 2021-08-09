@@ -4,7 +4,7 @@
  一个允许玩家复制不可再生物品的 [MCDR](https://github.com/Fallen-Breath/MCDReforged) 插件。
 
  [![License](https://img.shields.io/github/license/Fidelxyz/MCDR-Renewability.svg)](https://github.com/Fidelxyz/MCDR-Renewability/blob/master/LICENSE)
- [![Release](https://img.shields.io/github/v/release/Fidelxyz/MCDR-Renewability.svg)](https://github.com/Fallen-Breath/MCDReforged/releases)
+ [![Release](https://img.shields.io/github/v/release/Fidelxyz/MCDR-Renewability.svg)](https://github.com/Fidelxyz/MCDR-Renewability/releases)
 
 ## 安装
 
