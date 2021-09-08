@@ -1,0 +1,12 @@
+{
+    "id": "renewability",
+    "version": "1.1.0",
+    "name": "Renewability",
+    "description": "A plugin that allows players to clone non-renewable items",
+    "author": "Fidel Yin",
+    "link": "https://github.com/Fidelxyz/MCDR-Renewability",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1",
+        "minecraft_data_api": "*"
+    }
+}

@@ -22,7 +22,7 @@
 
 ## 配置
 
-第一次运行时会在 MCDR 目录中的 `config` 目录新建 `Renewability.json` 配置文件。
+第一次运行时会在 MCDR 目录中的 `config/renewability/` 目录新建 `config.json` 配置文件。
 
 ### `'max_daily_items_cloned'`
 
